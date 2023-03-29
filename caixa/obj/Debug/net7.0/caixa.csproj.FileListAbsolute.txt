@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\caixa\bin\Debug\net7.0\caixa.exe
+C:\Users\LAB4\Desktop\caixa\bin\Debug\net7.0\caixa.deps.json
+C:\Users\LAB4\Desktop\caixa\bin\Debug\net7.0\caixa.runtimeconfig.json
+C:\Users\LAB4\Desktop\caixa\bin\Debug\net7.0\caixa.dll
+C:\Users\LAB4\Desktop\caixa\bin\Debug\net7.0\caixa.pdb
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.dll
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\refint\caixa.dll
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.pdb
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\caixa.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\caixa\obj\Debug\net7.0\ref\caixa.dll
