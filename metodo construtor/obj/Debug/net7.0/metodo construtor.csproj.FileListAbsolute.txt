@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\metodo construtor\bin\Debug\net7.0\metodo construtor.exe
+C:\Users\LAB4\Desktop\metodo construtor\bin\Debug\net7.0\metodo construtor.deps.json
+C:\Users\LAB4\Desktop\metodo construtor\bin\Debug\net7.0\metodo construtor.runtimeconfig.json
+C:\Users\LAB4\Desktop\metodo construtor\bin\Debug\net7.0\metodo construtor.dll
+C:\Users\LAB4\Desktop\metodo construtor\bin\Debug\net7.0\metodo construtor.pdb
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.dll
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\refint\metodo construtor.dll
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.pdb
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\metodo construtor.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\metodo construtor\obj\Debug\net7.0\ref\metodo construtor.dll
