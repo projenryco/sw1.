@@ -23,5 +23,11 @@ class Aluno
 
 
     }
+    
+    public void mensagem (){
+        
+        double mediaCalculada = obtermedia ();
+       string resultadoSituacao = obtersituacao(mediaCalculada);
+        console.Writeline(nome + "esta" + resultadoSituacao + "com media:" + mediaCalculada);
 
 }
