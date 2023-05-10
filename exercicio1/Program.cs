@@ -1,4 +1,4 @@
-﻿namespace heranca_polimorfismo;
+﻿namespace exercicio1;
 class Program
 {
     static void Main(string[] args)
